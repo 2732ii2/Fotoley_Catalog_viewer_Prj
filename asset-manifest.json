@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fotoley_Catalog_viewer_Prj/static/css/main.b5be67a1.css",
+    "main.js": "/Fotoley_Catalog_viewer_Prj/static/js/main.e455cc6e.js",
+    "static/js/787.ce4f8090.chunk.js": "/Fotoley_Catalog_viewer_Prj/static/js/787.ce4f8090.chunk.js",
+    "static/media/d5.jpg": "/Fotoley_Catalog_viewer_Prj/static/media/d5.9b585b977adb7e68ab58.jpg",
+    "static/media/d2.jpg": "/Fotoley_Catalog_viewer_Prj/static/media/d2.e144b4b5df0e84caf338.jpg",
+    "static/media/d1.jpg": "/Fotoley_Catalog_viewer_Prj/static/media/d1.c84d5fe5106e1b21f049.jpg",
+    "static/media/d3.jpg": "/Fotoley_Catalog_viewer_Prj/static/media/d3.bed174327c4a187ccff8.jpg",
+    "static/media/d4.jpg": "/Fotoley_Catalog_viewer_Prj/static/media/d4.f0c95705e84a37b12a50.jpg",
+    "index.html": "/Fotoley_Catalog_viewer_Prj/index.html",
+    "main.b5be67a1.css.map": "/Fotoley_Catalog_viewer_Prj/static/css/main.b5be67a1.css.map",
+    "main.e455cc6e.js.map": "/Fotoley_Catalog_viewer_Prj/static/js/main.e455cc6e.js.map",
+    "787.ce4f8090.chunk.js.map": "/Fotoley_Catalog_viewer_Prj/static/js/787.ce4f8090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5be67a1.css",
+    "static/js/main.e455cc6e.js"
+  ]
+}
