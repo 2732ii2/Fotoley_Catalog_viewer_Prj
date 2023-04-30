@@ -66,7 +66,12 @@
 #one{
   width: 20%;
   height: 65%;
+  overflow: hidden;
   margin: 7px;
   border-radius: 10px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
+}
+.so{
+  box-shadow: 0 20px 31px -5px rgb(21, 20, 20);
+  border: 2px solid white;
 }
