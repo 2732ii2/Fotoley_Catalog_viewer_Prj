@@ -10,3 +10,11 @@ Beautiful catalog viewer
 
 # Live link 
 https://2732ii2.github.io/Fotoley_Catalog_viewer_Prj/
+
+
+
+# Technologies 
+
+- React.JS
+- React-Redux
+- Material UI
