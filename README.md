@@ -20,7 +20,7 @@ https://2732ii2.github.io/Fotoley_Catalog_viewer_Prj/
 - Material UI
 
 
-#Feactures 
+# Feactures 
 - Responsive Design
 - Easy Data-Flow
 - Beautiful UI
