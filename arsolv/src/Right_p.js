@@ -1,8 +1,11 @@
 import React, { useState } from 'react'
 import PauseIcon from "@mui/icons-material/Pause";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
+import { useSelector } from 'react-redux';
 export default function Right_p() {
     var [state,setstate]=useState("on");
+//  var value = useSelector((value) => value);
+    // console.log(value);
     console.log(state);
   return (
     <div className="Right_Side">
