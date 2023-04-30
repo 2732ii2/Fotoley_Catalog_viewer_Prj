@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&display=swap');
 .App{
   width: 100%;
   height: 100vh;
@@ -74,4 +75,44 @@
 .so{
   box-shadow: 0 20px 31px -5px rgb(21, 20, 20);
   border: 2px solid white;
+}
+
+#r_up{
+  width: 100%;
+  height: 60%;
+  overflow: hidden;
+  /* border: 1px solid blue; */
+}
+#r_down{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30%;
+  margin-top: 10%;
+  /* border: 1px solid blue; */
+}
+#r_h{
+  font-size: 32px;
+  font-family: 'Cardo', serif;
+  color: rgb(19, 18, 18,.7);
+}
+#r_p{
+  font-size: 20px;
+  font-family: 'Cardo', serif;
+  word-spacing: 2px;
+  color: rgb(19, 18, 18,.5);
+  margin-top: 30px;
+}
+
+.circle{
+  width: 100px;
+  height: 100px;
+  background: skyblue;
+  transition: all .5s;
+  border-radius: 50%;
+  border: 2px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 25px 32px -10px rgb(21, 177, 238);
 }
