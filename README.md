@@ -18,3 +18,9 @@ https://2732ii2.github.io/Fotoley_Catalog_viewer_Prj/
 - React.JS
 - React-Redux
 - Material UI
+
+
+#Feactures 
+- Responsive Design
+- Easy Data-Flow
+- Beautiful UI
